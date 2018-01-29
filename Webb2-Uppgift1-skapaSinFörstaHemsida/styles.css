@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+    background-color: #f4da9b;
+    font-family: Courier, verdana;
+}
+
+div.allTheBaking {
+    border-style: solid;
+    border-width: 70px 10px 100px 70px;
+    padding: 2.5%;
+    width: auto;
+    background-color: #f4da9b;
+    color: #bf2222;
+}
+div.siteIntro {
+    
+    border: 0px black;
+    padding: 25px;
+    width: auto;
+    height: 200px;
+    background-color: #bf2222;
+    color: #bf2222;
+}
+/* Bestämmer allt om text-öppningen till sidan förutom storleken på texten.*/
+p.topSite {
+    color: #fbffc2;
+    text-align: center;
+}
+
+p.header {
+    font-size: 200%;
+    font-weight: bold;
+}
+
+p.underTitel {
+    font-size: 133%;
+}
+
+p.linksToFindOnSite {
+    font-size: 100%;
+}
+
+div.introInfo {
+    border: 50px black;
+    padding: 25px;
+    width: 75%;
+    height: 750px;
+    
+}
+
+p.receptTitel {
+    font-size: 133%;
+}
+
+
+
+p.beskrivningsTitel {
+    font-size: 100%;
+    font-weight: bold;
+}
+
+p.content {
+    font-size: 100%;
+    font-weight: 90;
+    
+}
+
+p.receptIFarten {
+    
+}
+
+div.supportRecipe {
+    border: 50px solid black;
+    padding: 25px;
+    width: 75%;
+    height: 750px;
+}
+
+p.receptMedBilder {
+    
+}
+
+.img {
+    text-align: center
+}
+
